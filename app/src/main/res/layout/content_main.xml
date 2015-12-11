@@ -10,42 +10,4 @@
     tools:showIn="@layout/activity_main"
     tools:context=".MainActivity">
 
-    <!--<EditText android:id="@+id/edit_message"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:hint="@string/edit_message" />-->
-
-    <!--<EditText android:id="@+id/edit_email"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_below="@+id/edit_message"-->
-        <!--android:hint="@string/edit_email" />-->
-
-    <!--<EditText android:id="@+id/edit_temperature"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_below="@+id/edit_email"-->
-        <!--android:hint="@string/edit_temperature" />-->
-
-    <!--<Button-->
-        <!--android:id="@+id/send_button"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="@string/button_send"-->
-        <!--android:layout_below="@+id/edit_temperature"-->
-        <!--android:onClick="sendCity" />-->
-
-    <!--<TextView-->
-        <!--android:id="@+id/display_message"-->
-        <!--android:layout_weight="1"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_below="@+id/send_button" />-->
-
-    <!--<ListView-->
-        <!--android:id="@+id/display_data"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_below="@id/display_message" />-->
-
 </RelativeLayout>
